@@ -14,7 +14,8 @@
 Sistema de control de asistencia y jornada laboral ⏰
 
 <p>
-  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/Español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
 </p>
 
 ---
@@ -247,5 +248,6 @@ const char* timeServerUrl = "https://soul23.cloud/time-server";
 ## 📄 Licencia
 
 MIT
+
 
 
