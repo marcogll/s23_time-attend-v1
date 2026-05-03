@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://soul23.mx/logo/soul23_logo.svg" width="90" alt="Soul23">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_wh.png">
+    <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_blk.png" alt="Soul23" width="110">
+</picture>
 
 # S23 Time Attend V1
 
