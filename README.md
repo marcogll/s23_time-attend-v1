@@ -1,19 +1,23 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://soul23.mx/logo/s23_logo_wh.png">
-    <img src="https://soul23.mx/logo/s23_logo_blk.png" alt="Soul23" width="110">
-  </picture>
+<div align="center">
+
+<img src="https://soul23.mx/logo/soul23_logo.svg" width="90" alt="Soul23">
+
+# S23 Time Attend V1
+
+Time and attendance management system for employees ⏰
+
+<p>
+    <img src="https://img.shields.io/badge/Soul23-111111?style=flat-square&logo=github&logoColor=white" alt="Soul23">
+
 </p>
+
+</div>
+
+---
 
 <h1 align="center">s23_time-attend-v1.git</h1>
 
-<p align="center">
-  Este repositorio contiene el Producto Mínimo Viable (MVP) de un sistema de control de asistencia basado en NFC e IoT, diseñado para entornos reales de operación (oficinas, talleres, sucursales).
-</p>
 
-<p align="center">
-  [![Soul23](https://img.shields.io/badge/Soul23-000000?style=for-the-badge)](https://github.com/marcogll)
-</p>
 
 
 ## ⚡️ Guía Rápida (TL;DR)
@@ -239,3 +243,4 @@ const char* timeServerUrl = "https://soul23.cloud/time-server";
 ## 📄 Licencia
 
 MIT
+
