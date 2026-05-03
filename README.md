@@ -1,10 +1,20 @@
-# 🕒 Checador Inteligente NFC IoT (ESP8266 · MVP)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_wh.png">
+    <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_blk.png" alt="Soul23" width="110">
+  </picture>
+</p>
 
-Este repositorio contiene el **Producto Mínimo Viable (MVP)** de un sistema de control de asistencia basado en **NFC** e **IoT**, diseñado para entornos reales de operación (oficinas, talleres, sucursales).
+<h1 align="center">s23_time-attend-v1.git</h1>
 
-El sistema utiliza un **NodeMCU ESP8266** para leer tarjetas NFC de empleados, obtener la hora exacta desde un servidor en la nube y enviar los registros de asistencia a un **Webhook HTTP** para su posterior procesamiento (bases de datos, bots, dashboards o sistemas de RRHH).
+<p align="center">
+  Este repositorio contiene el Producto Mínimo Viable (MVP) de un sistema de control de asistencia basado en NFC e IoT, diseñado para entornos reales de operación (oficinas, talleres, sucursales).
+</p>
 
----
+<p align="center">
+  [![Soul23](https://img.shields.io/badge/Soul23-000000?style=for-the-badge)](https://github.com/marcogll)
+</p>
+
 
 ## ⚡️ Guía Rápida (TL;DR)
 
