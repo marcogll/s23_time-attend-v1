@@ -1,23 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo.svg" width="110" alt="Soul23">
+  <a href="https://soul23.mx">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_wh.png">
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_blk.png">
+      <img
+        src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_blk.png"
+        width="110"
+        alt="Soul:23">
+    </picture>
+  </a>
 </p>
 
 <h1 align="center">S23 Time Attend V1</h1>
 
 <p align="center">
-  Sistema de control de asistencia y jornada ⏰
+  MVP del sistema de checador de puntualidad con n8n, webhooks y ESP8266.
 </p>
 
 <p align="center">
-  
+  <img src="https://img.shields.io/badge/C++-3a3a3a?style=flat-square&logo=cpp&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP8266-3a3a3a?style=flat-square&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-3a3a3a?style=flat-square&logo=n8n&logoColor=white">
 </p>
 
-  Sistema de control de asistencia y jornada ⏰
-</p>
+---
 
-<p align="center">
-  
-</p>
+## Description
+
+MVP del sistema de checador de puntualidad basado en n8n, webhooks y ESP8266: guía rápida, estructura del repositorio, funcionalidades, arquitectura del firmware y flujo de operación.
 
 ## ⚡️ Guía Rápida (TL;DR)
 
